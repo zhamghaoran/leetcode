@@ -7,7 +7,7 @@ public:
     int minSubarray(vector<int> &nums, int p) {
         int sum[100010];
         ::memset(sum, 0, sizeof sum);
-        unordered_map<int, int> faq;
+        map<int, int> faq;
         for (int i = 0; i < nums.size(); i++) {
             sum[i + 1] = sum[i] + nums[i];
             sum[i + 1] %= p;
