@@ -24,7 +24,7 @@ public:
     }
 };
 int main() {
-    vector<int> faq=  {3,2,1,4,5};
-    cout<<(new Solution)->countSubarrays(faq,4);
+        vector<int> faq=  {2,3,1,3};
+    cout<<(new Solution)->countSubarrays(faq,2);
     return 0;
 }
