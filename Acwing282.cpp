@@ -18,7 +18,7 @@ int main() {
         for (int j = 1; j + i <= a ; j++) {
             int l = j;
             int r = j + i ;
-            dp[l][r] = 0x3f3f3f3f;
+            dp[l][r] = 0x3f3f3  f3f;
             for (int z = l; z < r; z++) {
                 dp[l][r] = min(dp[l][r], dp[l][z] + dp[z + 1][r] + sum[r] - sum[l - 1]);
             }
