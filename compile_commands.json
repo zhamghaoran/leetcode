@@ -1,0 +1,887 @@
+[
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode.dir\\leetcode1687.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1687.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1687.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1780.dir\\leetcode1780.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1780.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1780.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1697.dir\\leetcode1697.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1697.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1697.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1945.dir\\leetcode1945.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1945.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1945.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1703.dir\\leetcode1703.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1703.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1703.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1971.cpp.dir\\leetcode1971.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1971.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1971.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1760.cpp.dir\\leetcode1760.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1760.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1760.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1753.cpp.dir\\leetcode1753.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1753.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1753.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1799.cpp.dir\\leetcode1799.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1799.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1799.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2011.cpp.dir\\leetcode2011.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2011.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2011.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4261.cpp.dir\\Acwing4261.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4261.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4261.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1754.cpp.dir\\leetcode1754.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1754.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1754.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1739.cpp.dir\\leetcode1739.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1739.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1739.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1759.dir\\leetcode1759.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1759.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1759.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2027.cpp.dir\\leetcode2027.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2027.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2027.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1750.dir\\leetcode1750.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1750.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1750.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3400.cpp.dir\\Acwing3400.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3400.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3400.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2032.cpp.dir\\leetcode2032.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2032.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2032.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4366.cpp.dir\\Acwing4366.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4366.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4366.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode855.cpp.dir\\leetcode855.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode855.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode855.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3443.cpp.dir\\Acwing3443.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3443.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3443.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4818.cpp.dir\\Acwing4818.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\cmake-build-debug\\Acwing4818.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\cmake-build-debug\\Acwing4818.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2037.cpp.dir\\leetcode2037.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2037.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2037.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4645.cpp.dir\\Acwing4645.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4645.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4645.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2351.cpp.dir\\leetcode2351.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2351.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2351.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1801.cpp.dir\\leetcode1801.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1801.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1801.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2042.cpp.dir\\leetcode2042.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2042.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2042.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4644.cpp.dir\\Acwing4644.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4644.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4644.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1802.cpp.dir\\leetcode1802.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1802.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1802.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4653.cpp.dir\\Acwing4653.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4653.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4653.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1803.cpp.dir\\leetcode1803.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1803.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1803.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4655.cpp.dir\\Acwing4655.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4655.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4655.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2180.cpp.dir\\leetcode2180.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2180.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2180.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4652.cpp.dir\\Acwing4652.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4652.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4652.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\byteDanceTest1.cpp.dir\\byteDanceTest1.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\byteDanceTest1.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\byteDanceTest1.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\byteDanceTest2.cpp.dir\\byteDanceTest2.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\byteDanceTest2.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\byteDanceTest2.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1658.cpp.dir\\leetcode1658.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1658.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1658.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4656.cpp.dir\\Acwing4656.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4656.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4656.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2185.cpp.dir\\leetcode2185.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2185.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2185.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1806.cpp.dir\\leetcode1806.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1806.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1806.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode753.cpp.dir\\leetcode753.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode753.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode753.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4454.cpp.dir\\Acwing4454.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4454.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4454.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1807.cpp.dir\\leetcode1807.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1807.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1807.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2287.cpp.dir\\leetcode2287.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2287.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2287.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1819.cpp.dir\\leetcode1819.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1819.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1819.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1813.cpp.dir\\leetcode1813.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1813.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1813.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1814.cpp.dir\\leetcode1814.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1814.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1814.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1825.cpp.dir\\leetcode1825.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1825.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1825.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2299.cpp.dir\\leetcode2299.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2299.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2299.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4700.cpp.dir\\Acwing4700.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4700.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4700.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1817.cpp.dir\\leetcode1817.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1817.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1817.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1824.cpp.dir\\leetcode1824.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1824.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1824.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1815.cpp.dir\\leetcode1815.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1815.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1815.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1828.cpp.dir\\leetcode1828.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1828.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1828.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1632.cpp.dir\\leetcode1632.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1632.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1632.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1664.cpp.dir\\leetcode1664.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1664.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1664.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2315.cpp.dir\\leetcode2315.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2315.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2315.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1669.cpp.dir\\leetcode1669.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1669.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1669.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2319.cpp.dir\\leetcode2319.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2319.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2319.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1129.cpp.dir\\leetcode1129.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1129.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1129.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1604.cpp.dir\\leetcode1604.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1604.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1604.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1797.cpp.dir\\leetcode1797.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1797.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1797.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1223.cpp.dir\\leetcode1223.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1223.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1223.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2335.cpp.dir\\leetcode2335.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2335.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2335.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1138.cpp.dir\\leetcode1138.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1138.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1138.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1234.cpp.dir\\leetcode1234.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1234.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1234.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1124.cpp.dir\\leetcode1124.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1124.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1124.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1250.cpp.dir\\leetcode1250.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1250.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1250.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3956.cpp.dir\\Acwing3956.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3956.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3956.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2341.cpp.dir\\leetcode2341.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2341.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2341.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\ACwing3729.cpp.dir\\ACwing3729.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\ACwing3729.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\ACwing3729.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing798.cpp.dir\\Acwing798.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing798.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing798.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1139.cpp.dir\\leetcode1139.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1139.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1139.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing789.cpp.dir\\Acwing789.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing789.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing789.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3768.cpp.dir\\Acwing3768.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3768.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3768.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1237.cpp.dir\\leetcode1237.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1237.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1237.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1792.cpp.dir\\leetcode1792.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1792.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1792.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2347.cpp.dir\\leetcode2347.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2347.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2347.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1140.cpp.dir\\leetcode1140.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1140.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1140.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1249.cpp.dir\\Acwing1249.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1249.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1249.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing836.cpp.dir\\Acwing836.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing836.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing836.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing2058.cpp.dir\\Acwing2058.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing2058.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing2058.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1238.cpp.dir\\leetcode1238.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1238.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1238.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2357.cpp.dir\\leetcode2357.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2357.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2357.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1247.cpp.dir\\leetcode1247.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1247.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1247.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4866.cpp.dir\\Acwing4866.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4866.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4866.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode6367.cpp.dir\\leetcode6367.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode6367.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode6367.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1239.cpp.dir\\leetcode1239.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1239.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1239.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2363.cpp.dir\\leetcode2363.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2363.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2363.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1562.cpp.dir\\Acwing1562.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1562.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1562.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2373.cpp.dir\\leetcode2373.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2373.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2373.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3502.cpp.dir\\Acwing3502.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3502.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3502.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing842.cpp.dir\\Acwing842.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing842.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing842.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing843.cpp.dir\\Acwing843.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing843.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing843.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3696.cpp.dir\\Acwing3696.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3696.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3696.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1488.cpp.dir\\Acwing1488.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1488.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1488.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing844.cpp.dir\\Acwing844.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing844.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing844.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing845.cpp.dir\\Acwing845.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing845.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing845.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing795.cpp.dir\\Acwing795.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing795.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing795.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing796.cpp.dir\\Acwing796.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing796.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing796.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing797.cpp.dir\\Acwing797.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing797.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing797.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing799.cpp.dir\\Acwing799.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing799.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing799.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Leetcode982.cpp.dir\\Leetcode982.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Leetcode982.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Leetcode982.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3305.cpp.dir\\Acwing3305.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3305.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3305.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3777.cpp.dir\\Acwing3777.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3777.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3777.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing840.cpp.dir\\Acwing840.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing840.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing840.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing841.cpp.dir\\Acwing841.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing841.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing841.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Leetcode6309.cpp.dir\\Leetcode6309.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Leetcode6309.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Leetcode6309.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing837.cpp.dir\\Acwing837.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing837.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing837.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing240.cpp.dir\\Acwing240.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing240.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing240.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing830.cpp.dir\\Acwing830.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing830.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing830.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing154.cpp.dir\\Acwing154.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing154.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing154.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3728.cpp.dir\\Acwing3728.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3728.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3728.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing858.cpp.dir\\Acwing858.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing858.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing858.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3555.cpp.dir\\Acwing3555.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3555.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3555.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1590.cpp.dir\\leetcode1590.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1590.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1590.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode17.05.cpp.dir\\leetcode17.05.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode17.05.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode17.05.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\2023J.cpp.dir\\2023J.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\2023J.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\2023J.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\2023E.cpp.dir\\2023E.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\2023E.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\2023E.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\2023D.cpp.dir\\2023D.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\2023D.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\2023D.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2383.cpp.dir\\leetcode2383.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2383.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2383.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1394.cpp.dir\\Acwing1394.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1394.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1394.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing257.cpp.dir\\Acwing257.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing257.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing257.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1605.cpp.dir\\leetcode1605.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1605.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1605.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3792.cpp.dir\\Acwing3792.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3792.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3792.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing868.cpp.dir\\Acwing868.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing868.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing868.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4309.cpp.dir\\Acwing4309.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4309.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4309.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing872.cpp.dir\\Acwing872.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing872.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing872.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1615.cpp.dir\\leetcode1615.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1615.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1615.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3625.cpp.dir\\Acwing3625.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3625.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3625.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing876.cpp.dir\\Acwing876.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing876.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing876.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2488.cpp.dir\\leetcode2488.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2488.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2488.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\std.cpp.dir\\std.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\std.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\std.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\test1.cpp.dir\\test1.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\test1.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\test1.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2389.cpp.dir\\leetcode2389.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2389.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2389.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode200.cpp.dir\\leetcode200.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode200.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode200.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1625.cpp.dir\\leetcode1625.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1625.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1625.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1012.cpp.dir\\leetcode1012.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1012.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1012.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3382.cpp.dir\\Acwing3382.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3382.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3382.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing2.cpp.dir\\Acwing2.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing2.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing2.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1626.cpp.dir\\leetcode1626.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1626.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1626.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1638.cpp.dir\\leetcode1638.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1638.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1638.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3.cpp.dir\\Acwing3.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8753.cpp.dir\\luogu8753.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8753.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8753.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8755.cpp.dir\\luogu8755.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8755.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8755.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8754.cpp.dir\\luogu8754.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8754.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8754.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8749.cpp.dir\\luogu8749.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8749.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8749.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1637.cpp.dir\\leetcode1637.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1637.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1637.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing9.cpp.dir\\Acwing9.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing9.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing9.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing6.cpp.dir\\Acwing6.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing6.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing6.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1051.cpp.dir\\Acwing1051.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1051.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1051.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2367.cpp.dir\\leetcode2367.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2367.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2367.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing898.cpp.dir\\Acwing898.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing898.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing898.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing895.cpp.dir\\Acwing895.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing895.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing895.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing897.cpp.dir\\Acwing897.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing897.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing897.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing282.cpp.dir\\Acwing282.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing282.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing282.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing3805.cpp.dir\\Acwing3805.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3805.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing3805.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8743.cpp.dir\\luogu8743.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8743.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8743.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8744.cpp.dir\\luogu8744.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8744.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8744.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8742.cpp.dir\\luogu8742.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8742.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8742.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1204.cpp.dir\\Acwing1204.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1204.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1204.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1205.cpp.dir\\Acwing1205.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1205.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1205.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1207.cpp.dir\\Acwing1207.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1207.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1207.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8597.cpp.dir\\luogu8597.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8597.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8597.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8599.cpp.dir\\luogu8599.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8599.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8599.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1210.cpp.dir\\Acwing1210.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1210.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1210.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing1212.cpp.dir\\Acwing1212.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1212.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing1212.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\tiankoing.cpp.dir\\tiankoing.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\tiankoing.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\tiankoing.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1053.cpp.dir\\leetcode1053.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1053.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1053.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4658.cpp.dir\\Acwing4658.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4658.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4658.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4659.cpp.dir\\Acwing4659.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4659.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4659.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1000.cpp.dir\\leetcode1000.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1000.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1000.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\Acwing4660.cpp.dir\\Acwing4660.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4660.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\Acwing4660.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8785.cpp.dir\\luogu8785.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8785.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8785.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\luogu8787.cpp.dir\\luogu8787.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8787.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\luogu8787.cpp"
+},
+{
+  "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode2427.cpp.dir\\leetcode2427.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2427.cpp",
+  "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode2427.cpp"
+},
+  {
+    "directory": "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug",
+    "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\C__~1.EXE -g -fdiagnostics-color=always -std=gnu++14 -o CMakeFiles\\leetcode1017.cpp.dir\\leetcode1017.cpp.obj -c C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1017.cpp",
+    "file": "C:\\Users\\20179\\CLionProjects\\untitled228\\leetcode1017.cpp"
+  }
+]
