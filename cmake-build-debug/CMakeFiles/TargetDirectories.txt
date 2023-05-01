@@ -194,5 +194,7 @@ C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode24
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1031.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1048.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/count.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1172.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1376.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
