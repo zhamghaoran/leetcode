@@ -3774,6 +3774,25 @@ rule CXX_EXECUTABLE_LINKER__leetcode1376.2ecpp_Debug
 
 
 #############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__leetcode970.2ecpp_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = C:\PROGRA~2\Dev-Cpp\MinGW64\bin\C__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__leetcode970.2ecpp_Debug
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~2\Dev-Cpp\MinGW64\bin\C__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
 # Rule for running custom commands.
 
 rule CUSTOM_COMMAND
@@ -3785,7 +3804,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\20179\CLionProjects\untitled228 -BC:\Users\20179\CLionProjects\untitled228\cmake-build-debug
+  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8770.66\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\20179\CLionProjects\untitled228 -BC:\Users\20179\CLionProjects\untitled228\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 
@@ -3794,7 +3813,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\ninja\win\x64\ninja.exe $FILE_ARG -t clean $TARGETS
+  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8770.66\bin\ninja\win\x64\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -3802,6 +3821,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.222\bin\ninja\win\x64\ninja.exe -t targets
+  command = C:\Users\20179\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8770.66\bin\ninja\win\x64\ninja.exe -t targets
   description = All primary targets available:
 
