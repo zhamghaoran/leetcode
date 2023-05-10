@@ -198,5 +198,11 @@ C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode11
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1376.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode970.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1003.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode2106.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode2432.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1419.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/ccpc.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/shudu.cpp.dir
+C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1015.cpp.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
