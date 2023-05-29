@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/20179/CLionProjects/untitled228
+# Install script for directory: D:/CLionProjects/untitled228
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/20179/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/20179/CLionProjects/untitled228/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CLionProjects/untitled228/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
