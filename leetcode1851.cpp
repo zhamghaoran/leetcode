@@ -34,7 +34,9 @@ public:
 };
 
 int main() {
-
+    for (int i = 1;i <= 4000;i ++) {
+        cout<<i<<",";
+    }
     return 0;
 
 }
