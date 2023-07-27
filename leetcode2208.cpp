@@ -27,5 +27,9 @@ public:
 };
 
 int main() {
+    freopen("qaq.out","w",stdout);
+    for (int i = 1;i <= 4000;i ++) {
+        cout<<i<<",";
+    }
     return 0;
 }
