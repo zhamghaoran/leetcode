@@ -12,24 +12,24 @@ void solve() {
         cout << "No" << endl;
         return;
     }
-    for (int i = 1; i <= a; i++) {
-        int len = faq[i] - i;
-        if (len < 0)
-            continue;
-        if (i + len <= a) {
-            if (faq[i + len] >= i && faq[i + len + 1] < i) {
-                continue;
-            } else {
-                cout << "No" << endl;
-                return;
-            }
-        } else {
-            cout << "No" << endl;
-            return;
+    vector<int> neww;
+    neww.push_back(a);
+    for (int i = a - 1; i >= 1; i--) {
+        if (faq[i] > faq[i + 1]) {
+            neww.push_back(i);
         }
     }
-
-    cout << "Yes" << endl;
+    int j = 0;
+    for (int i = 1;i <= a;i ++) {
+        if (i > 1 && faq[i] == faq[i - 1])
+            continue;
+        if (faq[i] != neww[j]) {
+            cout<<"no"<<endl;
+            return;
+        }
+        j ++;
+    }
+    cout << "yes" << endl;
 }
 
 int main() {
@@ -38,3 +38,8 @@ int main() {
     while (t--) solve();
     return 0;
 }
+/*
+1
+5
+5 1 1 1 1
+ */
