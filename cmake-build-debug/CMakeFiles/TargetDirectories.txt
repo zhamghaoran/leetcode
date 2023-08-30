@@ -275,5 +275,7 @@ D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/codeforces1862E.cpp.di
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/codeforces1862F.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/codeforces1862G.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode823.cpp.dir
+D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/Acwing5081.cpp.dir
+D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1654.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
