@@ -278,5 +278,7 @@ D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode823.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/Acwing5081.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1654.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode1761.cpp.dir
+D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode2240.cpp.dir
+D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode2511.cpp.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
