@@ -6,8 +6,7 @@ class Solution {
 public:
     string reverseLeftWords(string s, int n) {
         string ans(s.begin() + n, s.end());
-        for (int i = 0; i < n; i++) ans.push_back(s[i]);
-        return ans;
+        return ans.append(s.begin(),s.begin() + n);
     }
 };
 
