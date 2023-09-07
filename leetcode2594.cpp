@@ -15,7 +15,7 @@ public:
 
     long long repairCars(vector<int> &ranks, int cars) {
         long long l = 1;
-        long long r = 0x7f7f7f7f;
+        long long r = 100000000000010;
         while (l < r) {
             long long mid = (l + r) >> 1;
             if (pd(mid, ranks, cars)) {
@@ -25,6 +25,7 @@ public:
         return l;
     }
 };
+
 
 int main() {
     return 0;
