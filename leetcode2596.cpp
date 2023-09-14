@@ -5,7 +5,7 @@ using namespace std;
 class Solution {
 public:
     bool checkValidGrid(vector<vector<int>> &grid) {
-        map<int, pair<int, int>> faq;
+        unordered_map<int, pair<int, int>> faq;
         for (int i = 0; i < grid.size(); i++) {
             for (int j = 0; j < grid[0].size(); j++) {
                 faq[grid[i][j]] = make_pair(i, j);
