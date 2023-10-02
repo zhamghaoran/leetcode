@@ -10204,6 +10204,72 @@ build leetcode1333.cpp.exe: CXX_EXECUTABLE_LINKER__leetcode1333.2ecpp_Debug CMak
   TARGET_IMPLIB = libleetcode1333.cpp.dll.a
   TARGET_PDB = leetcode1333.cpp.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode2251.cpp
+
+
+#############################################
+# Order-only phony target for leetcode2251.cpp
+
+build cmake_object_order_depends_target_leetcode2251.cpp: phony || CMakeFiles/leetcode2251.cpp.dir
+
+build CMakeFiles/leetcode2251.cpp.dir/leetcode2251.cpp.obj: CXX_COMPILER__leetcode2251.2ecpp_unscanned_Debug E$:/CLionProjects/untitled228/leetcode2251.cpp || cmake_object_order_depends_target_leetcode2251.cpp
+  DEP_FILE = CMakeFiles\leetcode2251.cpp.dir\leetcode2251.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcode2251.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcode2251.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode2251.cpp
+
+
+#############################################
+# Link the executable leetcode2251.cpp.exe
+
+build leetcode2251.cpp.exe: CXX_EXECUTABLE_LINKER__leetcode2251.2ecpp_Debug CMakeFiles/leetcode2251.cpp.dir/leetcode2251.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\leetcode2251.cpp.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode2251.cpp.exe
+  TARGET_IMPLIB = libleetcode2251.cpp.dll.a
+  TARGET_PDB = leetcode2251.cpp.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode122.cpp
+
+
+#############################################
+# Order-only phony target for leetcode122.cpp
+
+build cmake_object_order_depends_target_leetcode122.cpp: phony || CMakeFiles/leetcode122.cpp.dir
+
+build CMakeFiles/leetcode122.cpp.dir/leetcode122.cpp.obj: CXX_COMPILER__leetcode122.2ecpp_unscanned_Debug E$:/CLionProjects/untitled228/leetcode122.cpp || cmake_object_order_depends_target_leetcode122.cpp
+  DEP_FILE = CMakeFiles\leetcode122.cpp.dir\leetcode122.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leetcode122.cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\leetcode122.cpp.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode122.cpp
+
+
+#############################################
+# Link the executable leetcode122.cpp.exe
+
+build leetcode122.cpp.exe: CXX_EXECUTABLE_LINKER__leetcode122.2ecpp_Debug CMakeFiles/leetcode122.cpp.dir/leetcode122.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\leetcode122.cpp.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = leetcode122.cpp.exe
+  TARGET_IMPLIB = libleetcode122.cpp.dll.a
+  TARGET_PDB = leetcode122.cpp.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -10518,6 +10584,8 @@ build leetcode1172.cpp: phony leetcode1172.cpp.exe
 
 build leetcode1177.cpp: phony leetcode1177.cpp.exe
 
+build leetcode122.cpp: phony leetcode122.cpp.exe
+
 build leetcode1222.cpp: phony leetcode1222.cpp.exe
 
 build leetcode1223.cpp: phony leetcode1223.cpp.exe
@@ -10681,6 +10749,8 @@ build leetcode2185.cpp: phony leetcode2185.cpp.exe
 build leetcode2208.cpp: phony leetcode2208.cpp.exe
 
 build leetcode2240.cpp: phony leetcode2240.cpp.exe
+
+build leetcode2251.cpp: phony leetcode2251.cpp.exe
 
 build leetcode228.cpp: phony leetcode228.cpp.exe
 
@@ -10854,7 +10924,7 @@ build tiankoing.cpp: phony tiankoing.cpp.exe
 #############################################
 # Folder: E:/CLionProjects/untitled228/cmake-build-debug
 
-build all: phony leetcode.exe leetcode1780.exe leetcode1697.exe leetcode1945.exe leetcode1703.exe leetcode1971.cpp.exe leetcode1760.cpp.exe leetcode1753.cpp.exe leetcode1799.cpp.exe leetcode2011.cpp.exe Acwing4261.cpp.exe leetcode1754.cpp.exe leetcode1739.cpp.exe leetcode1759.exe leetcode2027.cpp.exe leetcode1750.exe Acwing3400.cpp.exe leetcode2032.cpp.exe Acwing4366.cpp.exe leetcode855.cpp.exe Acwing3443.cpp.exe Acwing4818.cpp.exe leetcode2037.cpp.exe Acwing4645.cpp.exe leetcode2351.cpp.exe leetcode1801.cpp.exe leetcode2042.cpp.exe Acwing4644.cpp.exe leetcode1802.cpp.exe Acwing4653.cpp.exe leetcode1803.cpp.exe Acwing4655.cpp.exe leetcode2180.cpp.exe Acwing4652.cpp.exe byteDanceTest1.cpp.exe byteDanceTest2.cpp.exe leetcode1658.cpp.exe Acwing4656.cpp.exe leetcode2185.cpp.exe leetcode1806.cpp.exe leetcode753.cpp.exe Acwing4454.cpp.exe leetcode1807.cpp.exe leetcode2287.cpp.exe leetcode1819.cpp.exe leetcode1813.cpp.exe leetcode1814.cpp.exe leetcode1825.cpp.exe leetcode2299.cpp.exe Acwing4700.cpp.exe leetcode1817.cpp.exe leetcode1824.cpp.exe leetcode1815.cpp.exe leetcode1828.cpp.exe leetcode1632.cpp.exe leetcode1664.cpp.exe leetcode2315.cpp.exe leetcode1669.cpp.exe leetcode2319.cpp.exe leetcode1129.cpp.exe leetcode1604.cpp.exe leetcode1797.cpp.exe leetcode1223.cpp.exe leetcode2335.cpp.exe leetcode1138.cpp.exe leetcode1234.cpp.exe leetcode1124.cpp.exe leetcode1250.cpp.exe Acwing3956.cpp.exe leetcode2341.cpp.exe ACwing3729.cpp.exe Acwing798.cpp.exe leetcode1139.cpp.exe Acwing789.cpp.exe Acwing3768.cpp.exe leetcode1237.cpp.exe leetcode1792.cpp.exe leetcode2347.cpp.exe leetcode1140.cpp.exe Acwing1249.cpp.exe Acwing836.cpp.exe Acwing2058.cpp.exe leetcode1238.cpp.exe leetcode2357.cpp.exe leetcode1247.cpp.exe Acwing4866.cpp.exe leetcode6367.cpp.exe leetcode1239.cpp.exe leetcode2363.cpp.exe Acwing1562.cpp.exe leetcode2373.cpp.exe Acwing3502.cpp.exe Acwing842.cpp.exe Acwing843.cpp.exe Acwing3696.cpp.exe Acwing1488.cpp.exe Acwing844.cpp.exe Acwing845.cpp.exe Acwing795.cpp.exe Acwing796.cpp.exe Acwing797.cpp.exe Acwing799.cpp.exe Leetcode982.cpp.exe Acwing3305.cpp.exe Acwing3777.cpp.exe Acwing840.cpp.exe Acwing841.cpp.exe Leetcode6309.cpp.exe Acwing837.cpp.exe Acwing240.cpp.exe Acwing830.cpp.exe Acwing154.cpp.exe Acwing3728.cpp.exe Acwing858.cpp.exe Acwing3555.cpp.exe leetcode1590.cpp.exe leetcode17.05.cpp.exe 2023J.cpp.exe 2023E.cpp.exe 2023D.cpp.exe leetcode2383.cpp.exe Acwing1394.cpp.exe Acwing257.cpp.exe leetcode1605.cpp.exe Acwing3792.cpp.exe Acwing868.cpp.exe Acwing4309.cpp.exe Acwing872.cpp.exe leetcode1615.cpp.exe Acwing3625.cpp.exe Acwing876.cpp.exe leetcode2488.cpp.exe std.cpp.exe test1.cpp.exe leetcode2389.cpp.exe leetcode200.cpp.exe leetcode1625.cpp.exe leetcode1012.cpp.exe Acwing3382.cpp.exe Acwing2.cpp.exe leetcode1626.cpp.exe leetcode1638.cpp.exe Acwing3.cpp.exe luogu8753.cpp.exe luogu8755.cpp.exe luogu8754.cpp.exe luogu8749.cpp.exe leetcode1637.cpp.exe Acwing9.cpp.exe Acwing6.cpp.exe Acwing1051.cpp.exe leetcode2367.cpp.exe Acwing898.cpp.exe Acwing895.cpp.exe Acwing897.cpp.exe Acwing282.cpp.exe Acwing3805.cpp.exe luogu8743.cpp.exe luogu8744.cpp.exe luogu8742.cpp.exe Acwing1204.cpp.exe Acwing1205.cpp.exe Acwing1207.cpp.exe luogu8597.cpp.exe luogu8599.cpp.exe Acwing1210.cpp.exe Acwing1212.cpp.exe tiankoing.cpp.exe leetcode1053.cpp.exe Acwing4658.cpp.exe Acwing4659.cpp.exe leetcode1000.cpp.exe Acwing4660.cpp.exe luogu8785.cpp.exe luogu8787.cpp.exe leetcode2427.cpp.exe leetcode1017.cpp.exe leetcode1040.cpp.exe leetcode2399.cpp.exe Acwing3384.cpp.exe Leetcode2404.cpp.exe Acwing4958.cpp.exe leetcode1042.cpp.exe leetcode1157.cpp.exe leetcode1026.cpp.exe Acwing3446.cpp.exe leetcode1043.cpp.exe Acwing3543.cpp.exe Leetcode2413.cpp.exe Acwing3576.cpp.exe leetcode1027.cpp.exe leetcode1105.cpp.exe leetcode2418.cpp.exe leetcode1031.cpp.exe leetcode1048.cpp.exe count.cpp.exe leetcode1172.cpp.exe leetcode1376.cpp.exe leetcode970.cpp.exe leetcode1003.cpp.exe leetcode2106.cpp.exe leetcode2432.cpp.exe leetcode1419.cpp.exe ccpc.cpp.exe shudu.cpp.exe leetcode1015.cpp.exe cf872.cpp.exe cf872b.cpp.exe leetcode1016.cpp.exe leetcode2441.cpp.exe leetcode1054.cpp.exe leetcode1079.cpp.exe leetcodeLCP33.cpp.exe leetcode1080.cpp.exe leetcode1090.cpp.exe leetcode1377.cpp.exe leetcode1091.cpp.exe leetcode2455.cpp.exe leetcode1130.cpp.exe leetcode2559.cpp.exe leetcode2465.cpp.exe leetcode2460.cpp.exe leetcode2352.cpp.exe leetcode2611.cpp.exe luogu8799.cpp.exe luogu8802.cpp.exe luogu8800.cpp.exe luogu8801.cpp.exe luogu8804.cpp.exe luogu8803.cpp.exe luogu8805.cpp.exe leetcode2699.cpp.exe Acwing4908.cpp.exe leetcode1483.cpp.exe leetcode1177.cpp.exe leetcode1494.cpp.exe Acwing4440.cpp.exe Acwing4382.cpp.exe Acwing4742.cpp.exe Acwing4741.cpp.exe Acwing4738.cpp.exe leetcode16.cpp.exe leetcode1911.cpp.exe leetcode931.cpp.exe leetcode834.cpp.exe leetcode1851.cpp.exe leetcode918.cpp.exe leetcode2208.cpp.exe leetcode2569.cpp.exe leetcode2500.cpp.exe leetcode2050.cpp.exe luoguU324889.cpp.exe Acwing1129.cpp.exe Acwing1128.cpp.exe Acwing1127.cpp.exe leetcode1444.cpp.exe leetcode2337.cpp.exe codeforces1858A.cpp.exe codeforces1858B.cpp.exe codeforces1858C.cpp.exe codeforces1858D.cpp.exe leetcode1782.cpp.exe leetcode1267.cpp.exe codefun1087.cpp.exe leetcode1448.cpp.exe codefun1088.cpp.exe leetcode228.cpp.exe codeforces1862A.cpp.exe codeforces1862B.cpp.exe codeforces1862c.cpp.exe leetcode56.cpp.exe codeforces1862D.cpp.exe leetcode57.cpp.exe codeforces1862E.cpp.exe codeforces1862F.cpp.exe codeforces1862G.cpp.exe leetcode823.cpp.exe Acwing5081.cpp.exe leetcode1654.cpp.exe leetcode1761.cpp.exe leetcode2240.cpp.exe leetcode2511.cpp.exe leetcode1921.cpp.exe leetcode449.cpp.exe neww.cpp.exe leetcode2605.cpp.exe leetcode1123.cpp.exe offer5.cpp.exe offer58.cpp.exe offer20.cpp.exe offer6.cpp.exe meituan1.cpp.exe leetcode2594.cpp.exe leetcode2651.cpp.exe leetcode207.cpp.exe leetcode210.cpp.exe leetcode630.cpp.exe leetcode1462.cpp.exe leetcode2596.cpp.exe leetcode1222.cpp.exe leetcode198.cpp.exe leetcode337.cpp.exe leetcode2560.cpp.exe leetcode1603.cpp.exe leetcode2591.cpp.exe leetcode146.cpp.exe leetcode2582.cpp.exe leetcode1333.cpp.exe
+build all: phony leetcode.exe leetcode1780.exe leetcode1697.exe leetcode1945.exe leetcode1703.exe leetcode1971.cpp.exe leetcode1760.cpp.exe leetcode1753.cpp.exe leetcode1799.cpp.exe leetcode2011.cpp.exe Acwing4261.cpp.exe leetcode1754.cpp.exe leetcode1739.cpp.exe leetcode1759.exe leetcode2027.cpp.exe leetcode1750.exe Acwing3400.cpp.exe leetcode2032.cpp.exe Acwing4366.cpp.exe leetcode855.cpp.exe Acwing3443.cpp.exe Acwing4818.cpp.exe leetcode2037.cpp.exe Acwing4645.cpp.exe leetcode2351.cpp.exe leetcode1801.cpp.exe leetcode2042.cpp.exe Acwing4644.cpp.exe leetcode1802.cpp.exe Acwing4653.cpp.exe leetcode1803.cpp.exe Acwing4655.cpp.exe leetcode2180.cpp.exe Acwing4652.cpp.exe byteDanceTest1.cpp.exe byteDanceTest2.cpp.exe leetcode1658.cpp.exe Acwing4656.cpp.exe leetcode2185.cpp.exe leetcode1806.cpp.exe leetcode753.cpp.exe Acwing4454.cpp.exe leetcode1807.cpp.exe leetcode2287.cpp.exe leetcode1819.cpp.exe leetcode1813.cpp.exe leetcode1814.cpp.exe leetcode1825.cpp.exe leetcode2299.cpp.exe Acwing4700.cpp.exe leetcode1817.cpp.exe leetcode1824.cpp.exe leetcode1815.cpp.exe leetcode1828.cpp.exe leetcode1632.cpp.exe leetcode1664.cpp.exe leetcode2315.cpp.exe leetcode1669.cpp.exe leetcode2319.cpp.exe leetcode1129.cpp.exe leetcode1604.cpp.exe leetcode1797.cpp.exe leetcode1223.cpp.exe leetcode2335.cpp.exe leetcode1138.cpp.exe leetcode1234.cpp.exe leetcode1124.cpp.exe leetcode1250.cpp.exe Acwing3956.cpp.exe leetcode2341.cpp.exe ACwing3729.cpp.exe Acwing798.cpp.exe leetcode1139.cpp.exe Acwing789.cpp.exe Acwing3768.cpp.exe leetcode1237.cpp.exe leetcode1792.cpp.exe leetcode2347.cpp.exe leetcode1140.cpp.exe Acwing1249.cpp.exe Acwing836.cpp.exe Acwing2058.cpp.exe leetcode1238.cpp.exe leetcode2357.cpp.exe leetcode1247.cpp.exe Acwing4866.cpp.exe leetcode6367.cpp.exe leetcode1239.cpp.exe leetcode2363.cpp.exe Acwing1562.cpp.exe leetcode2373.cpp.exe Acwing3502.cpp.exe Acwing842.cpp.exe Acwing843.cpp.exe Acwing3696.cpp.exe Acwing1488.cpp.exe Acwing844.cpp.exe Acwing845.cpp.exe Acwing795.cpp.exe Acwing796.cpp.exe Acwing797.cpp.exe Acwing799.cpp.exe Leetcode982.cpp.exe Acwing3305.cpp.exe Acwing3777.cpp.exe Acwing840.cpp.exe Acwing841.cpp.exe Leetcode6309.cpp.exe Acwing837.cpp.exe Acwing240.cpp.exe Acwing830.cpp.exe Acwing154.cpp.exe Acwing3728.cpp.exe Acwing858.cpp.exe Acwing3555.cpp.exe leetcode1590.cpp.exe leetcode17.05.cpp.exe 2023J.cpp.exe 2023E.cpp.exe 2023D.cpp.exe leetcode2383.cpp.exe Acwing1394.cpp.exe Acwing257.cpp.exe leetcode1605.cpp.exe Acwing3792.cpp.exe Acwing868.cpp.exe Acwing4309.cpp.exe Acwing872.cpp.exe leetcode1615.cpp.exe Acwing3625.cpp.exe Acwing876.cpp.exe leetcode2488.cpp.exe std.cpp.exe test1.cpp.exe leetcode2389.cpp.exe leetcode200.cpp.exe leetcode1625.cpp.exe leetcode1012.cpp.exe Acwing3382.cpp.exe Acwing2.cpp.exe leetcode1626.cpp.exe leetcode1638.cpp.exe Acwing3.cpp.exe luogu8753.cpp.exe luogu8755.cpp.exe luogu8754.cpp.exe luogu8749.cpp.exe leetcode1637.cpp.exe Acwing9.cpp.exe Acwing6.cpp.exe Acwing1051.cpp.exe leetcode2367.cpp.exe Acwing898.cpp.exe Acwing895.cpp.exe Acwing897.cpp.exe Acwing282.cpp.exe Acwing3805.cpp.exe luogu8743.cpp.exe luogu8744.cpp.exe luogu8742.cpp.exe Acwing1204.cpp.exe Acwing1205.cpp.exe Acwing1207.cpp.exe luogu8597.cpp.exe luogu8599.cpp.exe Acwing1210.cpp.exe Acwing1212.cpp.exe tiankoing.cpp.exe leetcode1053.cpp.exe Acwing4658.cpp.exe Acwing4659.cpp.exe leetcode1000.cpp.exe Acwing4660.cpp.exe luogu8785.cpp.exe luogu8787.cpp.exe leetcode2427.cpp.exe leetcode1017.cpp.exe leetcode1040.cpp.exe leetcode2399.cpp.exe Acwing3384.cpp.exe Leetcode2404.cpp.exe Acwing4958.cpp.exe leetcode1042.cpp.exe leetcode1157.cpp.exe leetcode1026.cpp.exe Acwing3446.cpp.exe leetcode1043.cpp.exe Acwing3543.cpp.exe Leetcode2413.cpp.exe Acwing3576.cpp.exe leetcode1027.cpp.exe leetcode1105.cpp.exe leetcode2418.cpp.exe leetcode1031.cpp.exe leetcode1048.cpp.exe count.cpp.exe leetcode1172.cpp.exe leetcode1376.cpp.exe leetcode970.cpp.exe leetcode1003.cpp.exe leetcode2106.cpp.exe leetcode2432.cpp.exe leetcode1419.cpp.exe ccpc.cpp.exe shudu.cpp.exe leetcode1015.cpp.exe cf872.cpp.exe cf872b.cpp.exe leetcode1016.cpp.exe leetcode2441.cpp.exe leetcode1054.cpp.exe leetcode1079.cpp.exe leetcodeLCP33.cpp.exe leetcode1080.cpp.exe leetcode1090.cpp.exe leetcode1377.cpp.exe leetcode1091.cpp.exe leetcode2455.cpp.exe leetcode1130.cpp.exe leetcode2559.cpp.exe leetcode2465.cpp.exe leetcode2460.cpp.exe leetcode2352.cpp.exe leetcode2611.cpp.exe luogu8799.cpp.exe luogu8802.cpp.exe luogu8800.cpp.exe luogu8801.cpp.exe luogu8804.cpp.exe luogu8803.cpp.exe luogu8805.cpp.exe leetcode2699.cpp.exe Acwing4908.cpp.exe leetcode1483.cpp.exe leetcode1177.cpp.exe leetcode1494.cpp.exe Acwing4440.cpp.exe Acwing4382.cpp.exe Acwing4742.cpp.exe Acwing4741.cpp.exe Acwing4738.cpp.exe leetcode16.cpp.exe leetcode1911.cpp.exe leetcode931.cpp.exe leetcode834.cpp.exe leetcode1851.cpp.exe leetcode918.cpp.exe leetcode2208.cpp.exe leetcode2569.cpp.exe leetcode2500.cpp.exe leetcode2050.cpp.exe luoguU324889.cpp.exe Acwing1129.cpp.exe Acwing1128.cpp.exe Acwing1127.cpp.exe leetcode1444.cpp.exe leetcode2337.cpp.exe codeforces1858A.cpp.exe codeforces1858B.cpp.exe codeforces1858C.cpp.exe codeforces1858D.cpp.exe leetcode1782.cpp.exe leetcode1267.cpp.exe codefun1087.cpp.exe leetcode1448.cpp.exe codefun1088.cpp.exe leetcode228.cpp.exe codeforces1862A.cpp.exe codeforces1862B.cpp.exe codeforces1862c.cpp.exe leetcode56.cpp.exe codeforces1862D.cpp.exe leetcode57.cpp.exe codeforces1862E.cpp.exe codeforces1862F.cpp.exe codeforces1862G.cpp.exe leetcode823.cpp.exe Acwing5081.cpp.exe leetcode1654.cpp.exe leetcode1761.cpp.exe leetcode2240.cpp.exe leetcode2511.cpp.exe leetcode1921.cpp.exe leetcode449.cpp.exe neww.cpp.exe leetcode2605.cpp.exe leetcode1123.cpp.exe offer5.cpp.exe offer58.cpp.exe offer20.cpp.exe offer6.cpp.exe meituan1.cpp.exe leetcode2594.cpp.exe leetcode2651.cpp.exe leetcode207.cpp.exe leetcode210.cpp.exe leetcode630.cpp.exe leetcode1462.cpp.exe leetcode2596.cpp.exe leetcode1222.cpp.exe leetcode198.cpp.exe leetcode337.cpp.exe leetcode2560.cpp.exe leetcode1603.cpp.exe leetcode2591.cpp.exe leetcode146.cpp.exe leetcode2582.cpp.exe leetcode1333.cpp.exe leetcode2251.cpp.exe leetcode122.cpp.exe
 
 # =============================================================================
 # Built-in targets
