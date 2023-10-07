@@ -4,19 +4,20 @@ using namespace std;
 
 class StockSpanner {
 public:
-    int len = 1;
-    vector<int> faq;
+    stack<pair<int, int>> faq;
+    int cnt = 0;
 
     StockSpanner() {
+        faq.emplace(0, 0x3f3f3f3f);
     }
 
     int next(int price) {
-        int ans = 0;
-        faq.push_back(price);
-        for (int i = faq.size() - 1;i >= 0;i --) {
-            if (faq[i] <= price) ans ++;
-            else break;
+        cnt++;
+        while (!faq.empty() && price >= faq.top().second) {
+            faq.pop();
         }
+        int ans = cnt - faq.top().first;
+        faq.emplace(cnt,price);
         return ans;
     }
 };
@@ -29,8 +30,8 @@ public:
 int main() {
     StockSpanner *obj = new StockSpanner();
     obj->next(100);
-    obj->next(80);
+    cout<<obj->next(80);
     obj->next(60);
-    cout << obj->next(70);
+    obj->next(70);
     return 0;
 }
