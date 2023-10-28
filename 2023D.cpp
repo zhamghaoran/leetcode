@@ -1,110 +1,88 @@
-#include "bits/stdc++.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-#define N 200010
-using namespace std;
+#define OK 1
+#define ERROR 0
+#define MAXSIZE 100
+#define OVERFLOW -2
 
-struct node {
-    int f, t, nex;
-} rt[200010];
-int cnt;
-int head[200010];
+typedef int Status;
+typedef int ElemType;
 
-void add(int x, int y) {
-    rt[++cnt].f = x;
-    rt[cnt].t = y;
-    rt[cnt].nex = head[x];
-    head[x] = cnt;
+typedef struct {
+    ElemType *elem;
+    int length;
+    int listsize;
+} SqList;
+
+Status InitList_Sq(SqList L) {
+    L.elem = (ElemType *) malloc(sizeof(ElemType) * MAXSIZE);
+
+    if (!L.elem) exit(OVERFLOW);
+
+    L.length = 0;
+    L.listsize = MAXSIZE;
+    return OK;
 }
 
-int k;
-bool faq = false;
-int dfn[N], low[N];
-int a, b;
-int val[N], sta[N], cnt1, neww[N], qaq;
-void dfs(int x) {
-    dfn[x] = low[x] = ++cnt;
-    sta[++cnt1] = x;
-    for (int i = head[x]; i; i = rt[i].nex) {
-        if (!dfn[rt[i].t]) {
-            dfs(rt[i].t);
-            low[x] = min(low[x], low[rt[i].t]);
+Status Listinput(SqList La) {
+//	printf("put\r\n");
+    int i = 0;
+    int a;
+    while (scanf("%d", &a) != EOF) {
+        while (a != 0) {
+            La.elem[i] = a;
+            La.length++;
+            i++;
+//            if (scanf("%d", &a));
         }
-        if (!neww[rt[i].t]) {
-            low[x] = min(low[x], dfn[rt[i].t]);
+
+    }
+    return OK;
+}
+
+Status steMUl(SqList a, SqList b, SqList c) {
+    int i, j, k = 0;
+
+    if (b.length == 0 || c.length == 0) return ERROR;
+    for (i = 0; i < b.length - 1; i++) {
+        for (j = 0; j < c.length - 1; j++) {
+            if (b.elem[i] == c.elem[j]) {
+                a.elem[k] = b.elem[i];
+                k++;
+                a.length++;
+                for (int q = 1; q < a.length; q++) {
+                    if (a.elem[k] == a.elem[q])
+                        k--;
+                    a.length--;
+                }
+            }
         }
     }
-    int siz = 0;
-    if (low[x] == dfn[x]) {
-        qaq++;
-        neww[x] = qaq;
-        siz++;
-        while (x != sta[cnt1]) {
-            neww[sta[cnt1]] = qaq;
-            cnt1--;
-            siz++;
-        }
-        if (siz != k && siz > 1) {
-            faq = true;
-        }
-        cnt1--;
-    }
+    return OK;
+
+}
+
+void print_List(SqList L) {
+    int i;
+
+    if (L.length == 0) printf("empty class");
+
+    for (i = 0; i < L.length; i++)
+        printf("%d ", L.elem[i]);
+
+    return;
 }
 
 int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        cnt = 0;
-        int n;
-        cin >> n >> k;
-//        memset(head, 0, sizeof head);
-//        memset(low, 0, sizeof low);
-//        memset(dfn, 0, sizeof dfn);
-//        memset(sta, 0, sizeof dfn);
-//        memset(neww, 0, sizeof dfn);
-        for (int i = 0;i <= n + 10;i ++) {
-             head[i] = 0;
-             low[i] = 0;
-             dfn[i] = 0;
-             sta[i] = 0;
-             neww[i] = 0;
-        }
-        faq = false;
-        int x;
-        if (k == 1) {
-            for (int i = 1; i <= n; i++) {
-                cin >> x;
-                if (x != i) {
-                    faq = true;
-                }
-            }
-        } else {
-
-            for (int i = 1; i <= n; i++) {
-                cin >> x;
-                if (x == i) {
-                    faq = true;
-                }
-                add(i, x);
-            }
-            cnt1 = 0;
-            for (int i = 1; i <= n; i++) {
-                if (!dfn[i])
-                    dfs(i);
-            }
-        }
-        if (faq) {
-            cout << "No" << endl;
-        } else {
-            cout << "Yes" << endl;
-        }
-
-    }
+    SqList La, Lb, Lc;
+    InitList_Sq(La);  //初始化3个线性表
+    InitList_Sq(Lb);
+    InitList_Sq(Lc);
+    Listinput(La); //输入La的值
+    Listinput(Lb);//输入Lb的值
+    steMUl(Lc, La, Lb);//求出La和Lb的交集，放在Lc中
+    print_List(Lc);//打印交集
     return 0;
 }
-/*
-1
-2 2
-1 1
- *
- */
