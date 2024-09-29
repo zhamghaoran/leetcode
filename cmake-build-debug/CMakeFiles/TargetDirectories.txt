@@ -349,5 +349,12 @@ E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/xiaomi.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/xiaomi2.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode322.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode494.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/xunlei.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/dd1.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/dd2.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/b1.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/b2.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode406.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode399.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
