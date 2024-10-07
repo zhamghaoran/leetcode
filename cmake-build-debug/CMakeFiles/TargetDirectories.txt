@@ -361,5 +361,8 @@ E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode155.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode300.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode287.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode279.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode240.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode21.dir
+E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/leetcode32.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/CLionProjects/untitled228/cmake-build-debug/CMakeFiles/rebuild_cache.dir
