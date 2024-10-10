@@ -1,4 +1,4 @@
 C:\Users\20179\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\20179\CLionProjects\leetcode1 -B C:\Users\20179\CLionProjects\leetcode1\cmake-build-debug
 -- Configuring done (0.2s)
--- Generating done (16.1s)
+-- Generating done (17.2s)
 -- Build files have been written to: C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug

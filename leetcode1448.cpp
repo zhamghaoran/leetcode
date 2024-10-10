@@ -3,7 +3,7 @@
 using namespace std;
 
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree Node.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
