@@ -371,5 +371,8 @@ C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode72.d
 C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode581.dir
 C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode53.dir
 C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode148.dir
+C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/jd3.dir
+C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode105.dir
+C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/leetcode024.dir
 C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/20179/CLionProjects/leetcode1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
