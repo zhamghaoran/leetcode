@@ -9,10 +9,8 @@ public:
         int key;
         Node *before;
         Node *after;
-
         Node() : key(0), val(0), before(nullptr), after(nullptr) {}
     };
-
     int ca;
     int cnt;
     Node *head;
@@ -20,7 +18,6 @@ public:
     int val = 0;
     unordered_map<int, int> mapp;
     unordered_map<int, Node *> nodeMap;
-
     LRUCache(int capacity) {
         head = new Node;
         tail = new Node;
@@ -29,21 +26,27 @@ public:
         ca = capacity;
         cnt = 0;
     }
-
     int get(int key) {
         if (!mapp.count(key) || mapp[key] == -1) {
             return -1;
         }
-        Node *node = nodeMap[key];
-        node->after->before = node->before;
-        node->before->after = node->after;
-        node->after = head->after;
-        head->after->before = node;
-        node->before = head;
-        head->after = node;
+        move(key);
         return mapp[key];
     }
-
+    void moveToHead(Node *node) {
+        node->after = head->after;
+        node->before = head;
+        // 处理头结点
+        head->after->before = node;
+        head->after = node;
+    }
+    void move(int key) {
+        Node *node = nodeMap[key];
+        //处理移动前的前后节点
+        node->after->before = node->before;
+        node->before->after = node->after;
+        moveToHead(node);
+    }
     void put(int key, int value) {
         if (!mapp.count(key) || mapp[key] == -1) {
             if (cnt == ca) {
@@ -57,10 +60,7 @@ public:
             node->after = new Node();
             node->val = value;
             node->key = key;
-            head->after->before = node;
-            node->before = head;
-            node->after = head->after;
-            head->after = node;
+            moveToHead(node);
             nodeMap[key] = node;
             mapp[key] = value;
             cnt++;
@@ -68,13 +68,7 @@ public:
             mapp[key] = value;
             nodeMap[key]->val = value;
             nodeMap[key]->key = key;
-            Node *node = nodeMap[key];
-            node->after->before = node->before;
-            node->before->after = node->after;
-            node->after = head->after;
-            head->after->before = node;
-            node->before = head;
-            head->after = node;
+            move(key);
         }
     }
 };
