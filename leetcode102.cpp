@@ -17,26 +17,22 @@ struct TreeNode {
     int val;
     TreeNode *left;
     TreeNode *right;
-
     TreeNode() : val(0), left(nullptr), right(nullptr) {}
-
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
-
+// 从根节点开始，先左，再右，用二维数组记录答案
 class Solution {
 public:
     vector<vector<int>> ans = vector<vector<int>>();
-
     vector<vector<int>> levelOrder(TreeNode *root) {
         if (root != nullptr) {
             dfs(root, 0);
         }
         return ans;
     }
-
     void dfs(TreeNode *root, int dep) {
+        // 手动扩容ans
         if (ans.size() <= dep) {
             ans.emplace_back();
         }
